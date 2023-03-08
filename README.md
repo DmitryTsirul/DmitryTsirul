@@ -32,5 +32,5 @@
 <br/>
 <br/>
 
-[instagram]: https://www.instagram.com/dmitry_tsirul/?hl=ru
+[instagram]: https://www.instagram.com/dmitry_tsirul
 [telegram]: https://t.me/Unstopo
