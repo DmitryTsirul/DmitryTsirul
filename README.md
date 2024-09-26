@@ -9,12 +9,11 @@
 
 ## Я фронтенд разработчик
 
-:muscle: Люблю писать код <br/>
-:mortar_board: Постоянно изучаю новые вещи <br/>
+
 
 ## Мои контакты:
 
-[<img align="left" alt="DmitryTsirul | Instagram" width="30px" src="https://img.icons8.com/3d-fluency/100/000000/3d-fluency-instagram-logo.png"/>][instagram]
+[<img align="left" alt="DmitryTsirul | Instagram" width="30px" src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg"/>][instagram]
 [<img align="left" alt="DmitryTsirul | Telegram" width="30px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/>][telegram]
 
  <br/>
