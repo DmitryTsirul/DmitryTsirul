@@ -32,4 +32,4 @@
 <br/>
 
 [instagram]: https://www.instagram.com/dmitry_tsirul
-[telegram]: https://t.me/Unstopo
+[telegram]: https://t.me/Unstopo_Di
